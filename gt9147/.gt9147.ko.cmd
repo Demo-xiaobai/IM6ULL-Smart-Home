@@ -1,0 +1,1 @@
+cmd_/home/me/Linux_ARM/git/imx6-ull-project/01.智能家居/gt9147/gt9147.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/me/Linux_ARM/git/imx6-ull-project/01.智能家居/gt9147/gt9147.ko /home/me/Linux_ARM/git/imx6-ull-project/01.智能家居/gt9147/gt9147.o /home/me/Linux_ARM/git/imx6-ull-project/01.智能家居/gt9147/gt9147.mod.o
